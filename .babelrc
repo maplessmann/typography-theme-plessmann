@@ -4,8 +4,7 @@
       "@babel/preset-env",
       {
         "targets": {
-          "node": 4.0,
-          "uglify": true
+          "node": 4.0
         }
       }
     ]

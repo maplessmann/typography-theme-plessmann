@@ -10,7 +10,9 @@
     "typography-theme"
   ],
   "scripts": {
-    "build": "../../node_modules/.bin/babel src --out-dir dist/"
+    "build": "babel src --out-dir dist/",
+    "lint": "eslint --ext .js,.jsx --ignore-path .gitignore .",
+    "watch": "babel -w src --out-dir dist/"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.4",

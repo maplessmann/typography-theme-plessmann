@@ -1,6 +1,6 @@
 {
   "name": "typography-theme-plessmann",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./dist/index.js",
   "repository": "git@github.com:maplessmann/typography-theme-plessmann.git",
   "author": "Matheus Plessmann <maplessmann@gmail.com>",

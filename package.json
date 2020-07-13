@@ -1,0 +1,16 @@
+{
+  "name": "typography-theme-plessmann",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "repository": "git@github.com:maplessmann/typography-theme-plessmann.git",
+  "author": "Matheus Plessmann <maplessmann@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --out-dir dist"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.4",
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4"
+  }
+}

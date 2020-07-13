@@ -5,6 +5,10 @@
   "repository": "git@github.com:maplessmann/typography-theme-plessmann.git",
   "author": "Matheus Plessmann <maplessmann@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "typography",
+    "typography-theme"
+  ],
   "scripts": {
     "build": "./node_modules/.bin/babel src --out-dir dist"
   },
